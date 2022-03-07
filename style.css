@@ -1,0 +1,44 @@
+table{
+    border-width:1px;
+    border-style: solid;
+    border-collapse: collapse;
+    border-color:aqua;
+    width: 100%;
+    background-image: url("images/aquabackground.png");
+    color: #ffffff;
+}
+th{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+    color: #ffffff;
+    
+}
+#menu{
+    background-image: url("images/aquabackground.png");
+    Padding-top: 8px ;
+    padding-bottom:8px ;
+    width: 100%;
+    
+}
+#menu a{
+font-family:Arial, Helvetica, sans-serif ;
+font-weight:800 ;
+font-size :12px ;
+color :#ffffff ;
+text-decoration:none;
+padding-left :12px ;
+padding-right :12px ;
+
+}
+#menu a:hover{
+    color:aqua ;
+}
+h4 {
+    font-style: italic;
+    text-align: center;
+
+}
+td:hover{
+     font-size: 20px;
+}
